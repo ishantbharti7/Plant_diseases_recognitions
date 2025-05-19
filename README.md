@@ -16,7 +16,7 @@ This project is a Plant Disease Recognition System that uses machine learning to
 ## Installation
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/Plant_diseases_detection.git
+git clone https://github.com/ishantbharti7/Plant_diseases_recognitions.git
 ```
 2. Install the required dependencies:
 ```bash
